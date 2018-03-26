@@ -34,6 +34,9 @@
     "commander": "^2.9.0",
     "doctrine": "^2.0.0",
     "node-dir": "^0.1.10",
+    "react": "^16.2.0",
+    "react-docgen": "^2.20.1",
+    "react-dom": "^16.2.0",
     "recast": "^0.11.5"
   },
   "devDependencies": {
@@ -48,6 +51,7 @@
     "eslint": "^3.2.2",
     "flow-bin": "^0.39.0",
     "jest": "^18.1.0",
+    "react-docgen-markdown-renderer": "^1.0.2",
     "rimraf": "^2.3.2",
     "temp": "^0.8.1"
   },
